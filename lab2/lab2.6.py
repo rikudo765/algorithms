@@ -11,4 +11,4 @@ def bsearch_rightmost(array, x):
 
 
 lst = [11, 11, 22, 33, 44]
-print(bsearch_rightmost(lst))
+print(bsearch_rightmost(lst, 11))
